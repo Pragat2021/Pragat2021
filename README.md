@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pragat Shukla</h1>
-<h3 align="center">Developer</h3>
-<img align="right" alt= "Coding" width="400" src=""img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragat2021&label=Profile%20views&color=0e75b6&style=flat" alt="pragat2021" /> </p>
+<h3 align="center">Web Developer</h3>
+
 
 - 🔭 I’m currently working on **Eagle Eye**
 
@@ -11,7 +10,6 @@
 
 - 📫 How to reach me **pragatshukla11@gmail.com**
 
-- ⚡ Fun fact **पानी अगर शांत है तो.... गहराई से मज़ाक नहीं करते !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
